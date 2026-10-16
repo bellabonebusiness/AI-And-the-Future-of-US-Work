@@ -1,6 +1,6 @@
 # AI and the Future of U.S. Work
 
-**Examining AI Occupational Exposure, Wages, and Projected Employment Growth (2024–2034)**
+**Exploring AI Occupational Exposure, Wages, and Projected Employment Growth (2024–2034)**
 
 *Data Analytics Capstone Project | Correlation One*
 
