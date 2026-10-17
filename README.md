@@ -49,6 +49,18 @@ Employers and workforce development organizations can use these insights to info
 - [Data Curation and Exploratory Analysis](reports/)
 - [Research Poster](visualizations/)
 
+## Data Sources & Attribution
+
+**U.S. Bureau of Labor Statistics (BLS)**  
+Employment Projections, 2024–2034.  
+https://www.bls.gov/emp/
+
+**AI Occupational Exposure (AIOE)**  
+Felten, E., Raj, M., & Seamans, R. (2021). Occupational, industry, and geographic exposure to artificial intelligence: A novel dataset and its potential uses. *Strategic Management Journal, 42*(12), 2195–2217.
+
+Original dataset: https://github.com/AIOE-Data/AIOE
+
+The analysis combines occupational employment projections with AI exposure measures. Data preparation, exploratory analysis, visualizations, and interpretations were developed as part of my Correlation One Data Analytics capstone project.
 ## Limitations
 
 AI Occupational Exposure measures potential overlap between occupational tasks and AI capabilities. It does not directly measure the probability of job displacement. Employment projections are estimates, and observed relationships should not be interpreted as evidence that AI exposure causes changes in employment.
